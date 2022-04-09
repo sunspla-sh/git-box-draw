@@ -14,19 +14,19 @@ Users can also use the tool to generate multiple commits for each day, so that t
 
 ## Examples
 
-**1)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A live example that says *GitBoxDraw.com* can be seen on my github profile page at the following link:
+**1)** &nbsp;&nbsp;&nbsp; A live example that says *GitBoxDraw.com* can be seen on my github profile page at the following link:
 \
 \
 [https://github.com/sunspla-sh?tab=overview&from=2022-04-01&to=2022-04-09](https://github.com/sunspla-sh?tab=overview&from=2022-04-01&to=2022-04-09)
 ![GitBoxDraw.com](./git-box-draw.png)  
 
-**2)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another live example that says *420 Blaze It* can be see here:
+**2)** &nbsp;&nbsp;&nbsp; Another live example that says *420 Blaze It* can be see here:
 \
 \
 [https://github.com/sunspla-sh?tab=overview&from=2018-12-01&to=2018-12-31](https://github.com/sunspla-sh?tab=overview&from=2018-12-01&to=2018-12-31)
 ![420 Blaze It](./420-blaze-it.png)  
 
-**3)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A third live example that says *Please Hire Me* can be seen here:
+**3)** &nbsp;&nbsp;&nbsp; A third live example that says *Please Hire Me* can be seen here:
 \
 \
 [https://github.com/sunspla-sh?tab=overview&from=2017-12-01&to=2017-12-31](https://github.com/sunspla-sh?tab=overview&from=2017-12-01&to=2017-12-31)

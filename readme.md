@@ -10,6 +10,3 @@ generates a bash script that they can execute to quickly generate the desired co
 \
 \
 Users can also use the tool to generate multiple commits for each day, so that those days are shaded using darker color within their Github or Gitlab profiles, which makes their art "pop" relative to their lighter-shaded regular commits.
-\
-\
-\
